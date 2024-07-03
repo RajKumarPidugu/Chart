@@ -1,4 +1,4 @@
-8070
+8076
 96C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\core\lib\assetUtils.js133645131718519013 0
 132C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Number.js133645131719046799 0
 107C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133645131726671901 0
@@ -68,7 +68,7 @@
 103C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\resolve\test\node_path\y\bbb\index.js133645133137972052 0
 90C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\natural-compare\index.js133645133133687233 0
 128C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\tokenizer.cjs133645131725107577 0
-62C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\index.mjs133645141371640111 0
+62C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\index.mjs133645151457868670 0
 108C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\caniuse-lite\data\features\input-search.js133645131733419682 0
 86C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\word-wrap\index.d.ts133645133134335829 0
 86C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\resolve-from\license133645131707181679 0
@@ -3315,6 +3315,7 @@
 96C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\escape-string-regexp\readme.md133645131707719182 0
 102C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@babel\types\lib\validators\isLet.js133645133140591271 0
 88C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\js-tokens\CHANGELOG.md133645131706345548 0
+68C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\dist\index.html133645151460592752 0
 84C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\js-tokens\index.js133645131707056234 0
 100C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\caniuse-lite\dist\lib\supported.js133645131737251006 0
 145C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\background.js133645131713905438 0
@@ -3431,6 +3432,7 @@
 98C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\eslint-visitor-keys\package.json133645133133865816 0
 86C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\htmlnano\index.d.cts133645131718007015 0
 87C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\css-what\lib\commonjs133645131716540479 1
+76C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\dist\index.c41b5a0e.css133645151460430878 0
 106C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\eslint\node_modules\escape-string-regexp133645133134374038 1
 85C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\htmlnano\index.d.ts133645131724868408 0
 111C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\chart.js\dist\helpers\helpers.collection.d.ts133645134563523475 0
@@ -4054,6 +4056,7 @@
 106C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\eslint\lib\rules\no-use-before-define.js133645133142628987 0
 107C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\eslint\lib\rules\no-useless-assignment.js133645133142662485 0
 101C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\eslint\lib\rules\no-useless-call.js133645133142692504 0
+79C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\dist\index.f2c0ec77.js.map133645151460973550 0
 102C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\eslint\lib\rules\no-useless-catch.js133645133142702548 0
 94C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\cache\lib\FSCache.js133645131708106295 0
 109C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\eslint\lib\rules\no-useless-computed-key.js133645133142716493 0
@@ -5546,6 +5549,7 @@
 101C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\caniuse-lite\data\regions\alt-eu.js133645131715576370 0
 101C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\caniuse-lite\data\regions\alt-sa.js133645131716148252 0
 97C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\caniuse-lite\data\regions\AO.js133645131716869660 0
+80C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\dist\index.c41b5a0e.css.map133645151460562716 0
 97C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\utils\src\DefaultMap.js133645131714453819 0
 97C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\caniuse-lite\data\regions\AR.js133645131717835574 0
 117C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@babel\highlight\node_modules\has-flag\package.json133645131705291755 0
@@ -7561,6 +7565,7 @@
 106C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\events\test\ValueEmitter.test.js133645131713367951 0
 108C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\core\lib\serializerCore.browser.js133645131727088873 0
 93C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\events\src\index.js133645131711653202 0
+57C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\dist133645151460983496 1
 100C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\events\src\ValueEmitter.js133645131713056107 0
 93C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\events\lib\types.js133645131712069327 0
 88C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\diagnostic\lib133645131710891614 1
@@ -8069,3 +8074,4 @@
 93C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\.bin\update-browserslist-db133645131741483954 0
 97C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\.bin\update-browserslist-db.cmd133645131741483954 0
 97C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\.bin\update-browserslist-db.ps1133645131741483954 0
+75C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\dist\index.f2c0ec77.js133645151460891905 0

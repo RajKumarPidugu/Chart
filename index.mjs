@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./style.css";
 import { Chart } from "chart.js/auto";
 const fetchBarData = async () => {
     try {
