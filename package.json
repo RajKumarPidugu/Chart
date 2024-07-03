@@ -4,6 +4,7 @@
   "description": "Display Charts",
   "main": "index.js",
   "scripts": {
+    "start": "parcel index.html"
   },
   "keywords": [],
   "author": "",
