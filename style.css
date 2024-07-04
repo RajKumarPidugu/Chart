@@ -10,6 +10,15 @@ body {
     background: cover;
     color: #fff;
 }
+header, footer{
+    text-align: center;
+    width: 100%;
+    padding: 1rem;
+    background-color: rgba(0,0,0,0.7);
+}
+header h1, footer p{
+    margin: 0;
+}
 
 #app {
     width: 100%;
