@@ -107,7 +107,7 @@
 143C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyContainers.js133645131720643453 0
 104C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\caniuse-lite\data\features\webauthn.js133645131738593847 0
 96C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\css-select\lib\esm\sort.js.map133645131721604397 0
-62C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\README.md133645152560884898 0
+62C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\README.md133646169573639272 0
 114C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree133645131726831887 1
 62C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\style.css133646063107945983 0
 87C:\Users\pidug\OneDrive\Documents\GitHub\Chart\Chart\node_modules\resolve\lib\core.json133645133139086146 0
